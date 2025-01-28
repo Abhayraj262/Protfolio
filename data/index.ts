@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "Study Notion",
     des: "An Ed-Tech platform enabling users to create content, enroll in courses, and provide insightful ratings. It fosters engaging and effective learning experiences.",
-    img: "/p1.svg",
+    img: "/Project5.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://ed-tech-mern.vercel.app/",
   },
